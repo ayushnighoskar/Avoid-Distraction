@@ -6,7 +6,7 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "*://www.instagram.com/*"
+    "*:https://www.netflix.com/in/*"
   ],
   "background": {
     "scripts": ["background.js"],
