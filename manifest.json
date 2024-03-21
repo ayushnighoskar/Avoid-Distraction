@@ -9,7 +9,7 @@
     "*:https://www.netflix.com/in/*"
   ],
   "background": {
-    "scripts": ["background.js"],
+    "scripts": ["service_worker.js"],
     "persistent": true
   }
 }
